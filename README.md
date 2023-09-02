@@ -22,4 +22,4 @@ Inter-Symbol Interference (ISI).
 <br>
 
 ### The goal is to generate a probability of error curves against the signal-to-noise ratio for different modulations schemes and under different MIMO setups.
-These curves are described in the PowerPoint.
+These curves are described in the attached PDF.
